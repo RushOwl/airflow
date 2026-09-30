@@ -241,7 +241,7 @@ nodeenv==1.4.0
 nteract-scrapbook==0.4.1
 ntlm-auth==1.5.0
 numpy==1.19.0
-oauthlib==2.1.0
+oauthlib==4.0.0
 openapi-spec-validator==0.2.8
 oscrypto==1.2.0
 packaging==20.4
