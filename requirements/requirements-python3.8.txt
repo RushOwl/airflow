@@ -298,7 +298,7 @@ python-dateutil==2.8.1
 python-editor==1.0.4
 python-http-client==3.2.7
 python-jenkins==1.7.0
-python-jose==3.1.0
+python-jose==3.5.0
 python-nvd3==0.15.0
 python-slugify==4.0.0
 python3-openid==3.1.0
